@@ -1,0 +1,14 @@
+.inputSearch {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  padding: 10px;
+  min-width: 500px;
+  font-size: 25px;
+}
+
+::placeholder{
+    color: rgba(156, 156, 173, 0.507);
+    text-align: center;
+}
+
