@@ -1,1 +1,1 @@
-`Link` => https://jeanduarty.github.io/filter-posts/
+`Link` https://jeanduarty.github.io/filter-posts/
